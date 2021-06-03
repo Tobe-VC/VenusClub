@@ -1,0 +1,9 @@
+{
+"name":"Teacher costume",
+"subNames":["Teacher", "Teacher 2", "Teacher 3"],
+"description":["A teacher outfit, for learning times.", "A teacher outfit, for learning times.", "A teacher outfit, for learning times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Teacher_1", "Teacher_2", "Teacher_3"],
+"directoryName": "Teacher outfit/"
+}

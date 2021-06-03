@@ -1,0 +1,12 @@
+{
+"name":"Handjob",
+"description":"Allows handjobs in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice handjobs in the booth, assuming they have enough openness.",
+"priceMoney":3000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "HJ_01",
+"predecessorsName" : ["Solo fingering"],
+"minOpenness" : 33.2
+}

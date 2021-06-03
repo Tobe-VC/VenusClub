@@ -1,0 +1,12 @@
+{
+"name":"Dance closer",
+"description":"Allows closer dances in the booth.",
+"detailedDescription":"Gives girls the possiblity to dance closer in the booth, assuming they have enough openness. Increases base dance earning by 1.",
+"priceMoney":1000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Closer_01",
+"predecessorsName" : ["Dance"],
+"minOpenness" : 5.5
+}

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ClientPortrait
+  - GirlPortrait
+  - CurrentAct
+  - PeekButton
+  - ImprovementDescription
+  - ImprovementName
+  - PopupMainImage
+  - PopupConfirm
+  - PopupSecondaryImage
+  - BuyableImage
+  - EraseButton
+  - ImprovementPrefab
+  - ZoomInButton
+  - UpgradeCostumeButton
+  - PortraitImage
+  - WardrobeCurrentLevelText
+  - WardrobeNextLevelText
+  - ClientTypeImage
+  - PopupTitle
+  - PopupDescription
+  - SpecialButton
+  - ImprovementPrice
+  - RecapIncomeDisplay
+  - RecapReputationDisplay
+  - RecapInfluenceDisplay
+  - RecapExpensesDisplay
+  - RecapInfluenceLostDisplay
+  - RecapReputationLostDisplay
+  - RecapMoneyTotalDisplay
+  - RecapReputationTotalDisplay
+  - RecapInfluenceTotalDisplay
+  - AllPurposeText
+  - SoundButton
+  - MusicManager
+  - VisibleZone
+  - Ignore
+  - DodgingGameObstacle
+  - PlayerStoppingZone
+  - MaxVideoUnlocked
+  - LoadingScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UIAbove
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

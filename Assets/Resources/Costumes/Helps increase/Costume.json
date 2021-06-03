@@ -1,0 +1,11 @@
+{
+"name":"Helps increase",
+"subNames":["Leotard","Latex","Ropes"],
+"description":"Increases the effect of bringing gifts to the client.",
+"subDetailedDescriptions":["Increases the effect of bringing gifts to the client by 50%.","Increases the effect of bringing gifts to the client by 100%.","Increases the effect of bringing gifts to the client by 150%."],
+"pricesMoney":[5000,10000,15000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Leotard_01","Latex_01","Ropes_01"],
+"showInList":true
+}

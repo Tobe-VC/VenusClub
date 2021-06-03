@@ -1,0 +1,10 @@
+{
+"id":6,
+"name":"Negotiator",
+"description":"Gives you the ability to convince a girl to work, even if she does not have enough openness.",
+"detailedDescription": "We have someone who may be able to help you when a girl does not feel like doing a particular performance.\n\nThis guy is usually involved during a big deal between us and another large organization. He's very good at convincing people to do things, so I'm pretty sure we could ask him to talk one of your girls up when she feels too shy to do something. Using him more than once per day will cost you some influence though...",
+"pricePerDayMoney":500,
+"priceToAccess":10,
+"imagePath" : "Negotiator_1",
+"folder" : "Negotiator/"
+}

@@ -1,0 +1,11 @@
+{
+"name":"Interaction duration increase",
+"subNames":["Lingerie","Corset","Burlesque"],
+"description":"Increases the duration of interactions in the booth.",
+"subDetailedDescriptions":["Increases the duration of interactions in the booth by 25%.","Increases the duration of interactions in the booth by 50%.","Increases the duration of interactions in the booth by 75%."],
+"pricesMoney":[5000,10000,15000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Lingerie_01","Corset_01","Burlesque_01"],
+"showInList":true
+}

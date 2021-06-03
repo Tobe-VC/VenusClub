@@ -1,0 +1,12 @@
+{
+"name":"Body cumshot",
+"description":"Allows body cumshots in the booth.",
+"detailedDescription":"Gives girls the possiblity to receive body cumshots in the booth, assuming they have enough openness.",
+"priceMoney":4000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Finish_Body_01",
+"predecessorsName" : ["Handjob"],
+"minOpenness" : 33.2
+}

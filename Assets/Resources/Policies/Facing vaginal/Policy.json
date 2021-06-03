@@ -1,0 +1,12 @@
+{
+"name":"Facing vaginal",
+"description":"Allows vaginal sex facing the client in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice vaginal sex facing the client in the booth, assuming they have enough openness.",
+"priceMoney":5000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Missionary_01",
+"predecessorsName" : ["Deepthroat"],
+"minOpenness" : 66.4
+}

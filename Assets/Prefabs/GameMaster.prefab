@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4937053441001715358
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4937053441001715357}
+  - component: {fileID: 5232681141274719039}
+  - component: {fileID: 6520896804833613539}
+  - component: {fileID: 2507341299865622046}
+  - component: {fileID: 257875784893364869}
+  - component: {fileID: 666338357277698238}
+  m_Layer: 0
+  m_Name: GameMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4937053441001715357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4937053441001715358}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5232681141274719039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4937053441001715358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b98fb4d9dff034093711d63d88c583, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6520896804833613539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4937053441001715358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc5f92f13baa4654fb600ec90dcfb809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  endGamePopupPrefab: {fileID: 6007270418897837896, guid: e785015faddd5e84b9c399b63b76cb70,
+    type: 3}
+--- !u!114 &2507341299865622046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4937053441001715358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b0e83e795ac68c48a31ee9f2cb17b5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popup: {fileID: 6007270418897837896, guid: e785015faddd5e84b9c399b63b76cb70, type: 3}
+--- !u!114 &257875784893364869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4937053441001715358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 419ef3505815f64468eb206ed7bd0a85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tutorialPopup: {fileID: 0}
+  startTutorialButton: {fileID: 0}
+  stopTutorialButton: {fileID: 0}
+  tutorialTextZone: {fileID: 0}
+  nextTutorialButton: {fileID: 0}
+  previousTutorialButton: {fileID: 0}
+  recruitGirlsButton: {fileID: 0}
+  improvementsButton: {fileID: 0}
+  policiesButton: {fileID: 0}
+  planningButton: {fileID: 0}
+  canvas: {fileID: 0}
+  backgroundBlocker: {fileID: 0}
+  backToClubBlocker: {fileID: 0}
+  startDayBlocker: {fileID: 0}
+  restBlocker: {fileID: 0}
+--- !u!114 &666338357277698238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4937053441001715358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8aaa97815f5eb1c4fa721979a21a8cdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

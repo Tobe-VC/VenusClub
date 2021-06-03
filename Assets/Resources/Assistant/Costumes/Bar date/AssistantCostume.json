@@ -1,0 +1,10 @@
+{
+"name":"Bar dress",
+"subNames":["Bar dress","Bar dress 2","Bar dress 3","Bar dress 4","Bar dress 5","Bar dress 6","Bar dress 7","Bar dress 8","Bar dress 9"],
+"description":["The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar.","The dress she wears for your dates at the bar."],
+"currentLevel":0,
+"maxLevel":9,
+"imagesPaths" : ["Basic pose (0002)","Smiling_Pose (0003)","Date pose 2 (007)","Date pose 3 (0020)","5","6","7","8","9"],
+"directoryName": "Bar dress/",
+"bought": true
+}

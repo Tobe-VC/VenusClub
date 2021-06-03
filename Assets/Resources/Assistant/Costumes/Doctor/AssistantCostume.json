@@ -1,0 +1,9 @@
+{
+"name":"Doctor",
+"subNames":["Doctor", "Doctor 2", "Doctor 3"],
+"description":["A doctor uniform for healing times.","A doctor uniform for healing times.","A doctor uniform for healing times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Doctor_1","Doctor_2","Doctor_3"],
+"directoryName": "Doctor/"
+}

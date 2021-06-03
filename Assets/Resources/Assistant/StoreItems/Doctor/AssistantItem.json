@@ -1,0 +1,13 @@
+{
+"name":"Doctor",
+"description":"Unlocks the doctor uniform for Nicole.",
+"detailedDescription":["Unlocks the doctor uniform when talking to Nicole.","Removes a bit of the doctor uniform.","Removes more of the doctor uniform."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Doctor_1","Doctor_2","Doctor_3"],
+"subNames" : ["Doctor","Doctor 2","Doctor 3"],
+"directoryName":"Outfits/Doctor",
+"thirdLateNightMeetingRequired": true
+
+}

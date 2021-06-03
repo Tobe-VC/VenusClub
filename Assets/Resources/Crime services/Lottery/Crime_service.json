@@ -1,0 +1,10 @@
+{
+"id":7,
+"name":"Lottery",
+"description":"Recruits a random girl from the lottery pool.",
+"detailedDescription": "We have some girls who might like to participate in your business. We can try to convince one of them to join you, if we trust you enough. I can't say which one it'll be however, so you'll just have to take in anybody who comes through the door. \n\nDon't worry we'll make sure she's hot. Not as much as me though, that would be impossible... ",
+"pricePerDayMoney":50000,
+"priceToAccess":20,
+"imagePath" : "Lottery_1",
+"folder" : "Lottery/"
+}

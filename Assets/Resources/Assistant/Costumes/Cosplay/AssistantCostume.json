@@ -1,0 +1,9 @@
+{
+"name":"Cosplay",
+"subNames":["Cosplay", "Cosplay 2", "Cosplay 3"],
+"description":["A futuristic cosplay for geeky times.","A futuristic cosplay for geeky times.","A futuristic cosplay for geeky times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Cosplay_1","Cosplay_2","Cosplay_3"],
+"directoryName": "Cosplay/"
+}

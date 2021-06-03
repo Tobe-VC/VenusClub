@@ -1,0 +1,12 @@
+{
+"name":"Cosplay",
+"description":"Unlocks a SF cosplay for Nicole.",
+"detailedDescription":["Unlocks a SF cosplay when talking to Nicole.","Removes a bit of the cosplay outfit.","Removes more of the cosplay outfit."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Cosplay_1","Cosplay_2","Cosplay_3"],
+"subNames" : ["Cosplay","Cosplay 2","Cosplay 3"],
+"directoryName":"Outfits/Cosplay",
+"thirdLateNightMeetingRequired": true
+}

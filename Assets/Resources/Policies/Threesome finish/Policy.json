@@ -1,0 +1,12 @@
+{
+"name":"Threesome finish",
+"description":"Unlocks the double finisher in the booth.",
+"detailedDescription":"Gives girls the possiblity to finish two clients at a time, assuming they have enough openness.",
+"priceMoney":7000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Double_finish_01",
+"predecessorsName" : ["Threesome"],
+"minOpenness" : 88.5
+}

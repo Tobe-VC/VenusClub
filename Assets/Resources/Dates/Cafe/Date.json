@@ -1,0 +1,14 @@
+{
+    "id":1,
+    "name":"Bar",
+    "directoryName":"Cafe",
+    "maxPortraitLevel":9,
+    "maxBackgroundLevel":1,
+	"maxVideoLevel":5,
+    "portraitsPaths":["Assistant/images/Cafe dress/Basic pose (0002)","Assistant/images/Cafe dress/Smiling_Pose (0003)","Assistant/images/Dates/Cafe/Date pose 2 (007)","Assistant/images/Dates/Cafe/Date pose 3 (0020)","Assistant/images/Dates/Cafe/5","Assistant/images/Dates/Cafe/6","Assistant/images/Dates/Cafe/7","Assistant/images/Dates/Cafe/8","Assistant/images/Dates/Cafe/9"],
+    "backgroundsPaths":["Dialog backgrounds/DateBackgrounds/bar"],
+    "dialogLines":[[]],
+    "characterDated":"assistant",
+	"thumbnailImagePath":"Assistant/images/Cafe dress/Basic pose (0002)",
+    "bought":true
+}

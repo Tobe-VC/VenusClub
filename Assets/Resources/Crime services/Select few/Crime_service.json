@@ -1,0 +1,10 @@
+{
+"id":0,
+"name":"Influencers",
+"description":"Increase the quality of the clients.",
+"detailedDescription": "We'll use our influence to find you some good clients. This should overall increase their \"quality\" and so increase how much they pay you.\n\nThose celebrities who call themselves influencers still have ways to go before reaching as far as we do. They're cute though.",
+"pricePerDayMoney":500,
+"priceToAccess":10,
+"imagePath" : "Select_Few_1",
+"folder" : "Select few/"
+}

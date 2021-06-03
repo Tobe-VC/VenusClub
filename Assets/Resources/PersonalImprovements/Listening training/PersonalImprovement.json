@@ -1,0 +1,13 @@
+{
+"name":"Listening training",
+"description":"Allows for higher score value collectibles to spawn. At higher level, increases the score value.",
+"detailedDescription":["Allows for higher score value collectibles to spawn. These are represented by a mouth icon.","Increases the score value by 1.","Increases the score value by 1.","Increases the score value by 1."],
+"priceMoney":[5000,10000,15000,20000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"priceAssistantPoints":[5,10,15,20],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Listening_1","Listening_2","Listening_3","Listening_4"],
+"subNames" : ["Listening","Listening 2","Listening 3","Listening 4"]
+}

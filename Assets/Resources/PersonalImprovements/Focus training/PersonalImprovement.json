@@ -1,0 +1,13 @@
+{
+"name":"Focus training",
+"description":"Decreases the speed of obstacles during dates.",
+"detailedDescription":["Decreases the speed of obstacles by 5%.","Decreases the speed of obstacles by 5%.","Decreases the speed of obstacles by 5%.","Decreases the speed of obstacles by 5%."],
+"priceMoney":[1000,4000,7000,10000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"priceAssistantPoints":[5,7,10,15],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Focus_training_1","Focus_training_2","Focus_training_3","Focus_training_4"],
+"subNames" : ["Focus training","Focus training 2","Focus training 3","Focus training 4"]
+}

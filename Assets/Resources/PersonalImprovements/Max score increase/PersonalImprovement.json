@@ -1,0 +1,13 @@
+{
+"name":"Max score increase",
+"description":"Increases the score to reach to end the date.\nWarning: this will make dates harder.",
+"detailedDescription":["Increases the score to reach by 5.","Increases the score to reach by 5.","Increases the score to reach by 5.","Increases the score to reach by 5."],
+"priceMoney":[5000,10000,15000,20000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"priceAssistantPoints":[5,10,15,20],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Max score increase_1","Max score increase_2","Max score increase_3","Max score increase_4"],
+"subNames" : ["Charisma development","Charisma development 2","Charisma development 3","Charisma development 4"]
+}

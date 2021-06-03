@@ -1,0 +1,12 @@
+{
+"name":"Lounge",
+"description":"Allows to give lessons to the girls. At higher levels, increases the number of possible lessons per day.",
+"detailedDescription":["Allows giving one lesson per day.","Increases the number of lessons per day by 1.","Increases the number of lessons per day by 1.","Increases the number of lessons per day by 1.","Increases the number of lessons per day by 1."],
+"priceMoney":[500,5000,10000,15000,20000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Lounge_Basic","Lounge_Better","Lounge_Improved","Lounge_Advanced","Lounge_Final"],
+"subNames" : ["Lounge","Better lounge","Improved lounge","Advanced lounge", "Final lounge"]
+}

@@ -1,0 +1,12 @@
+{
+"name":"Modular booths",
+"description":"Allows to choose a specialty for a booth during the work phase.",
+"detailedDescription":["Allows to choose a specialty for booth 1.","Allows to choose a specialty for booth 2.","Allows to choose a specialty for booth 3.","Allows to choose a specialty for booth 4.","Allows to choose a specialty for booth 5.","Allows to choose a specialty for booth 6."],
+"priceMoney":[5000,10000,15000,20000,25000,30000],
+"priceInfluence":[0,0,0,0,0,0],
+"priceConnection":[0,0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":6,
+"imagesPaths" : ["Modular_Booths_01","Modular_Booths_02","Modular_Booths_03","Modular_Booths_04","Modular_Booths_05","Modular_Booths_06"],
+"subNames" : ["Modular booth 1","Modular booth 2","Modular booth 3","Modular booth 4","Modular booth 5","Modular booth 6"]
+}

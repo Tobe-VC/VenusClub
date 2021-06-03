@@ -1,0 +1,13 @@
+{
+"name":"Sexy casual clothes",
+"description":"Unlocks sexy casual clothes for Nicole.",
+"detailedDescription":["Unlocks sexy casual clothes when talking to Nicole.","Removes a bit of the sexy casual clothes.","Removes more of the sexy casual clothes."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Sexy casual_1", "Sexy casual_2" ,"Sexy casual_3"],
+"subNames" : ["Sexy casual","Sexy casual 2","Sexy casual 3"],
+"directoryName":"Outfits/Sexy casual clothes",
+"thirdLateNightMeetingRequired": true
+
+}

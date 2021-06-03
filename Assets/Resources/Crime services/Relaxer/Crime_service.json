@@ -1,0 +1,10 @@
+{
+"id":9,
+"name":"Masseur",
+"description":"Decreases energy lost but also decreases money earned.",
+"detailedDescription": "We could send you one of our masseur to help your girls to relax between two clients. This will calm them down and make them lose their energy slower, but it will also make them work less efficiently, thus earning less money.\n\nAfter an intense session of \"stress relief\" for the team, this guy is a must if I want to go home without walking funny.",
+"pricePerDayMoney":1000,
+"priceToAccess":5,
+"imagePath" : "Relaxer_1",
+"folder" : "Relaxer/"
+}

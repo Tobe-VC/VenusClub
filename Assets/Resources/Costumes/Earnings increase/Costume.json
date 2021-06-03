@@ -1,0 +1,11 @@
+{
+"name":"Earnings increase",
+"subNames":["Dirndl","Bunny","Cosplay"],
+"description":"Increases earnings for working.",
+"subDetailedDescriptions":["Increases the money earned in the booth by 20%.","Increases the money earned in the booth by 40%.","Increases the money earned in the booth by 60%."],
+"pricesMoney":[5000,10000,15000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Dirndl_01","Bunny_01","Cosplay_01"],
+"showInList":true
+}

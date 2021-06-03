@@ -1,0 +1,12 @@
+{
+"name":"Swallow",
+"description":"Allows swallowing in the booth.",
+"detailedDescription":"Gives girls the possiblity to swallow in the booth, assuming they have enough openness.",
+"priceMoney":4000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Swallow_01",
+"predecessorsName" : ["Facefuck"],
+"minOpenness" : 60.8
+}

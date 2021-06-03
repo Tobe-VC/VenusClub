@@ -1,0 +1,12 @@
+{
+"name":"Secretary",
+"description":"Increases reputation gained during work.",
+"detailedDescription":["Increases reputation gain by 10%.","Increases reputation gain by 10%.","Increases reputation gain by 10%.","Increases reputation gain by 10%."],
+"priceMoney":[1000,4000,7000,10000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Basic_01","Sexy_01","Naked_01","Sex_01"],
+"subNames" : ["Secretary","Sexy secretary","Naked secretary","Slutty secretary"]
+}

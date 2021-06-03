@@ -1,0 +1,12 @@
+{
+"name":"Toys masturbation",
+"description":"Allows masturbation with toys in the booth.",
+"detailedDescription":"Gives girls the possiblity to masturbate with toys in the booth, assuming they have enough openness. Increases base pose earning by 1.",
+"priceMoney":4000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Toy_Mast_01",
+"predecessorsName" : ["Solo fingering"],
+"minOpenness" : 27.6
+}

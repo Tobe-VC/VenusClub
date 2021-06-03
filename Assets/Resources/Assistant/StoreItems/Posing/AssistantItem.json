@@ -1,0 +1,12 @@
+{
+"name":"Posing",
+"description":"Unlocks the possiblity to pose during work for Nicole.",
+"detailedDescription":["Unlocks the naked posing.","Unlocks the solo fingering.","Unlocks masturbation with toys."],
+"priceAssistantPoints":[50,55,60],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Pose_Naked","Pose_HandMast","Pose_ToyMast"],
+"subNames" : ["Pose", "Fingering","Toys"],
+"directoryName":"Performances/Pose",
+"thirdLateNightMeetingRequired": true
+}

@@ -1,0 +1,12 @@
+{
+"name":"Wardrobe",
+"description":"Unlocks the ability to buy costumes. Each new level unlocks new upgrades for the costumes.",
+"detailedDescription":["Unlocks the ability to buy basic costumes.","Unlocks the ability to upgrade costumes to level 2.","Unlocks the ability to upgrade costumes to level 3."],
+"priceMoney":[5000,10000,15000],
+"priceInfluence":[0,0,0],
+"priceConnection":[0,0,0],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Wardrobe_01","Wardrobe_02","Wardrobe_03"],
+"subNames" : ["Basic wardrobe","Upgraded wardrobe","Advanced wardrobe"]
+}

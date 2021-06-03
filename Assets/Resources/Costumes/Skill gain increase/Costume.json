@@ -1,0 +1,11 @@
+{
+"name":"Skill gain increase",
+"subNames":["Schoolgirl","Cheerleader","Teacher"],
+"description":"Increases skill gains during work.",
+"subDetailedDescriptions":["Increases skill gains during work by 100%.","Increases skill gains during work by 150%.","Increases skill gains during work by 200%."],
+"pricesMoney":[5000,10000,15000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Schoolgirl_01","Cheerleader_01","Teacher_01"],
+"showInList":true
+}

@@ -1,0 +1,12 @@
+{
+"name":"Titsjob",
+"description":"Allows titsjobs in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice titsjobs in the booth, assuming they have enough openness. Increases base foreplay earning by 1.",
+"priceMoney":5000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "TJ_01",
+"predecessorsName" : ["Footjob"],
+"minOpenness" : 44.2
+}

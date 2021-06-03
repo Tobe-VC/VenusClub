@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/WarningScene.unity
+    guid: 1b7b991a2eea65144840134374549bc7
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 93496ae7e97380e42a8ae49b6fa9a8a7
+  - enabled: 1
+    path: Assets/Scenes/ClubScene.unity
+    guid: 6468d42023d05054ca76471c192ce1b9
+  - enabled: 1
+    path: Assets/Scenes/RecruitmentScene.unity
+    guid: 808104049f841ce47a5c7380dd4d9155
+  - enabled: 0
+    path: Assets/Scenes/DayResultScene.unity
+    guid: 4772214966681af4bbafae7cd3a41425
+  - enabled: 1
+    path: Assets/Scenes/PoliciesScene.unity
+    guid: 7343fd5a36e0e4e49bddbbb5664648f7
+  - enabled: 1
+    path: Assets/Scenes/BuilderScene.unity
+    guid: 048e8feebc551e44b83332e6ff6b3376
+  - enabled: 1
+    path: Assets/Scenes/StaffDisplayScene.unity
+    guid: ca0606c58c88abd489bd47e7d8069f69
+  - enabled: 1
+    path: Assets/Scenes/RoomsBuiltScene.unity
+    guid: 16a9124d813f60443a0e88fb6124ae36
+  - enabled: 1
+    path: Assets/Scenes/ActivityScene.unity
+    guid: 861a11380bd3bc343bbe8e66d825eb05
+  - enabled: 0
+    path: Assets/Scenes/GirlPlanningScene.unity
+    guid: 7ba6d3af3f52d1d458feb465a0b75959
+  - enabled: 1
+    path: Assets/Scenes/PoliciesBoughtScene.unity
+    guid: 72c83c02b8f1b264fbb3d83f38fcb1f6
+  - enabled: 1
+    path: Assets/Scenes/SaveScene.unity
+    guid: c93d21ed06caf2448bafa87f16e533d5
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 88997c5b34414ff4787406be3feab07e
+  - enabled: 1
+    path: Assets/Scenes/LoadSceneFromMainMenu.unity
+    guid: e289b7a7180ed0445bdc46c5e51f80c0
+  - enabled: 1
+    path: Assets/Scenes/AllGirlRecruitedScene.unity
+    guid: 43d34d3c2d0b3ba409635c4890b3a1f8
+  - enabled: 1
+    path: Assets/Scenes/WardrobeScene.unity
+    guid: eee460c10417bf944a71447e0770fafc
+  - enabled: 1
+    path: Assets/Scenes/NewGirlPlanningScene.unity
+    guid: a67227a8af3faa549b9eea84a3f2b78d
+  - enabled: 1
+    path: Assets/Scenes/WardrobeEquipScene.unity
+    guid: 2141d2b62849ca4428dac82836aa4a65
+  - enabled: 1
+    path: Assets/Scenes/OfficeScene.unity
+    guid: f42b15c7f53c79e429b868731b58288d
+  - enabled: 1
+    path: Assets/Scenes/CrimeServicesScene.unity
+    guid: 71c4f27ce273c2f4fa24692f5b42daeb
+  - enabled: 1
+    path: Assets/Scenes/AllCurrentlyAvailableGirlRecruitedScene.unity
+    guid: 579548047b5a7e045a1d9deac253837c
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: d450061465639f640888f5b0d0fea4bc
+  - enabled: 1
+    path: Assets/Scenes/InteractionScene.unity
+    guid: 67f82611efe392a41b4bd6c34c9bdf2a
+  - enabled: 1
+    path: Assets/Scenes/AssistantStoreScene.unity
+    guid: 074613c9e9327484c9b31991cfb96977
+  - enabled: 1
+    path: Assets/Scenes/DateScene.unity
+    guid: 483646a15cbc1b34c9b981f284ca10a7
+  - enabled: 1
+    path: Assets/Scenes/DateChoosingScene.unity
+    guid: f93c2fe198bc33f4390cafd6e5928076
+  - enabled: 1
+    path: Assets/Scenes/AssistantWardrobeScene.unity
+    guid: 048d707def551c14684ed3dfdedf553d
+  - enabled: 1
+    path: Assets/Scenes/MusicCreditsScene.unity
+    guid: 2bf3e2affdc0fee4ba8adc0d1aefaacb
+  - enabled: 1
+    path: Assets/Scenes/PesonalImprovementScene.unity
+    guid: d00540195537681468e136d985952750
+  - enabled: 1
+    path: Assets/Scenes/DialogScene.unity
+    guid: e9eadc157f154cc4997b832f832b6eb6
+  - enabled: 1
+    path: Assets/Scenes/GalleryScene.unity
+    guid: 5aa229b79a165404e9e326b3e6e0b367
+  m_configObjects: {}

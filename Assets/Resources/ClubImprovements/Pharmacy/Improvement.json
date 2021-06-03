@@ -1,0 +1,12 @@
+{
+"name":"Pharmacy",
+"description":"Unlocks the pharmacy. Boosts the effect of giving drugs at higher levels. Automates the distribution at max level.",
+"detailedDescription":["Gives the possibility to distribute drugs to the customers.","Improves the effect of the happiness boost from drugs by 5.","Improves the effect of the happiness boost from drugs by 5.","Improves the effect of the happiness boost from drugs by 5.","Automatically give drugs to clients who wants them."],
+"priceMoney":[500,3000,6000,10000,15000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Basic_01","Sexy_01","Naked_01","Sex_01","Auto_01"],
+"subNames" : ["Pharmacist","Sexy pharmacist","Naked pharmacist","Slutty pharmacist","Automated pharmacist"]
+}

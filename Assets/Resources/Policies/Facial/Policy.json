@@ -1,0 +1,12 @@
+{
+"name":"Facial",
+"description":"Allows facials in the booth.",
+"detailedDescription":"Gives girls the possiblity to receive facials in the booth, assuming they have enough openness.",
+"priceMoney":3000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Facial_01",
+"predecessorsName" : ["Blowjob"],
+"minOpenness" : 49.8
+}

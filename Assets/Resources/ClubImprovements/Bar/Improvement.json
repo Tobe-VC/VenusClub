@@ -1,0 +1,12 @@
+{
+"name":"Bar",
+"description":"Unlocks the bar. Boosts the effect of giving drinks at higher levels. Automates the distribution at max level.",
+"detailedDescription":["Gives the possibility to distribute drinks to the customers.","Improves the effect of the happiness boost from drinks by 5.","Improves the effect of the happiness boost from drinks by 5.","Improves the effect of the happiness boost from drinks by 5.","Automatically give drinks to clients who wants them."],
+"priceMoney":[500,3000,6000,10000,15000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Basic_01","Sexy_01","Naked_01","Oral_01","Sex_01"],
+"subNames" : ["Barmaids","Sexy barmaids","Naked barmaids","Slutty barmaids","Automated barmaids"]
+}

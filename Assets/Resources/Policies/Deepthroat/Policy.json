@@ -1,0 +1,12 @@
+{
+"name":"Deepthroat",
+"description":"Allows deepthroat in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice deepthroats in the booth, assuming they have enough openness. Increases base oral earning by 1.",
+"priceMoney":5000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Deepthroat_01",
+"predecessorsName" : ["Blowjob","Titsjob"],
+"minOpenness" : 55.3
+}

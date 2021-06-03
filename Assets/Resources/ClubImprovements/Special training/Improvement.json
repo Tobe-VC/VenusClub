@@ -1,0 +1,13 @@
+{
+"name":"Special training",
+"description":"Test description special training",
+"detailedDescription":["Test detailed description special training","","","","",""],
+"priceMoney":[5000,5000,5000,5000,5000,5000],
+"priceInfluence":[0,0,0,0,0,0],
+"priceConnection":[0,0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":6,
+"imagesPaths" : ["Dance_01","Pose_01","Foreplay_01","Oral_01","Sex_01","Group_01"],
+"subNames" : ["Dance coach","Pose coach","Foreplay coach","Oral coach","Sex coach","Group sex coach"],
+"showInList":false
+}

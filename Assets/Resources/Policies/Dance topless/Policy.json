@@ -1,0 +1,12 @@
+{
+"name":"Dance topless",
+"description":"Allows topless dances in the booth.",
+"detailedDescription":"Gives girls the possiblity to dance topless in the booth, assuming they have enough openness. Increases base dance earning by 1.",
+"priceMoney":2000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Topless_01",
+"predecessorsName" : ["Dance closer"],
+"minOpenness" : 11
+}

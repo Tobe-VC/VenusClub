@@ -1,0 +1,12 @@
+{
+"name":"Group finish",
+"description":"Unlocks the group finisher in the booth.",
+"detailedDescription":"Gives girls the possiblity to finish a group of clients, assuming they have enough openness.",
+"priceMoney":15000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Triple_finish_01",
+"predecessorsName" : ["Foursome","Threesome finish"],
+"minOpenness" : 94
+}

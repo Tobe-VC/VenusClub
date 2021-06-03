@@ -1,0 +1,10 @@
+{
+"id":8,
+"name":"Coach",
+"description":"Increases money earned but also increases energy lost.",
+"detailedDescription": "We have some coaches available for when our guys feel a little demotivated. We can ask them to come and work with your girls so that they will work harder and earn more. This will certainly tire them out faster though. \n\nThese guys are really efficient, and they're really useful. You wouldn't believe how depressing a life of crime can be.",
+"pricePerDayMoney":1000,
+"priceToAccess":5,
+"imagePath" : "Coach_1",
+"folder" : "Coach/"
+}

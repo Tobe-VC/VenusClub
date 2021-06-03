@@ -1,0 +1,12 @@
+{
+"name":"Orgy",
+"description":"Allows orgies in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice orgies in the booth, assuming they have enough openness. Increases base group sex earning by 1.",
+"priceMoney":8000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "GB_01",
+"predecessorsName" : ["Foursome"],
+"minOpenness" : 94
+}

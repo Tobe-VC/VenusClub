@@ -1,0 +1,12 @@
+{
+"name":"Creampie",
+"description":"Allows creampies in the booth.",
+"detailedDescription":"Gives girls the possiblity to receive creampies in the booth, assuming they have enough openness.",
+"priceMoney":5000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Creampie_01",
+"predecessorsName" : ["Facing vaginal"],
+"minOpenness" : 71.9
+}

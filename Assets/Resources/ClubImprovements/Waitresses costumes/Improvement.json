@@ -1,0 +1,13 @@
+{
+"name":"Waitresses costumes",
+"description":"Test description waitresses costumes",
+"detailedDescription":["Test detailed description waitresses costumes","","","","",""],
+"priceMoney":[2500,5000,5000,5000,7500,10000],
+"priceInfluence":[0,0,0,0,0,0],
+"priceConnection":[0,0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":6,
+"imagesPaths" : ["Basic_01","Bunny_01","Dirndl_01","Nurse_01","Topless_01","Naked_01"],
+"subNames" : ["Sexy costumes","Bunny costumes","Dirndls","Nurse costumes","Topless waitresses","Naked waitresses"],
+"showInList":false
+}

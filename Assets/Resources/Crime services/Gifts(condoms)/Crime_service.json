@@ -1,0 +1,10 @@
+{
+"id":2,
+"name":"We bring gifts (condoms)",
+"description":"Automatically serve clients when they want condoms.",
+"detailedDescription": "Not exactly the most glamour of work, but we have some \"employees\" who are specialized in delivering things. Even legal stuff, sometimes. \nWe could ask them to help with your clients, so that they would give them condoms when they want some. \n\nNot our usual merchandise, but we can make do. As long as you pay, of course.",
+"pricePerDayMoney":100,
+"priceToAccess":5,
+"imagePath" : "Gifts_1",
+"folder" : "Gifts(condoms)/"
+}

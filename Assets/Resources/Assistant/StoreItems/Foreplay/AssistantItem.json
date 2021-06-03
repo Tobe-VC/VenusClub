@@ -1,0 +1,12 @@
+{
+"name":"Foreplay",
+"description":"Unlocks the possiblity to do foreplay during work for Nicole.",
+"detailedDescription":["Unlocks handjobs.","Unlocks footjobs.","Unlocks titsjobs."],
+"priceAssistantPoints":[60,65,70],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Handjob","Footjob","Titsjob"],
+"subNames" : ["Handjob", "Footjob","Titsjob"],
+"directoryName":"Performances/Foreplay",
+"thirdLateNightMeetingRequired": true
+}

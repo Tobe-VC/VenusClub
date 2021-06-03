@@ -1,0 +1,12 @@
+{
+"name":"Workout clothes",
+"description":"Unlocks workout clothes for Nicole.",
+"detailedDescription":["Unlocks workout clothes when talking to Nicole.","Removes a bit of the workout clothes.","Removes more of the workout clothes."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Workout_1","Workout_2","Workout_3"],
+"subNames" : ["Workout clothes","Workout clothes 2","Workout clothes 3"],
+"directoryName":"Outfits/Workout clothes",
+"thirdLateNightMeetingRequired": true
+}

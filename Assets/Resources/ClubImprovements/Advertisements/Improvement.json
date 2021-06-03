@@ -1,0 +1,12 @@
+{
+"name":"Advertisements",
+"description":"Increases reputation gain and decreases client acquisition time.",
+"detailedDescription":["Decreases client acquisition time by 10%.","Increases reputation gain by 10%.","Decreases client acquisition time by 10%.","Increases reputation gain by 10%."],
+"priceMoney":[1000,4000,7000,10000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Sign","Leaflet_01","Social_Network_01","Live_01"],
+"subNames" : ["Sign","Leaflets distribution","On line advertsement","Live advertisement"]
+}

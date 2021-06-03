@@ -1,0 +1,12 @@
+{
+"name":"Threesome",
+"description":"Allows threesomes in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice blowjobs in the booth, assuming they have enough openness.",
+"priceMoney":6000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Threesome_01",
+"predecessorsName" : ["Back vaginal"],
+"minOpenness" : 83
+}

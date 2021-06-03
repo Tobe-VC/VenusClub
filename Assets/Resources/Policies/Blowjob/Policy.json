@@ -1,0 +1,12 @@
+{
+"name":"Blowjob",
+"description":"Allows blowjobs in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice blowjobs in the booth, assuming they have enough openness.",
+"priceMoney":4000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "BJ_01",
+"predecessorsName" : ["Footjob"],
+"minOpenness" : 49.8
+}

@@ -1,0 +1,13 @@
+{
+"name":"Time freeze",
+"description":"Allows to freeze time for 2 seconds during the date. Use it by pressing the space key.",
+"detailedDescription":["Allows to freeze time for 2 seconds during the date. Use it by pressing the space key."],
+"priceMoney":[15000],
+"priceInfluence":[0],
+"priceConnection":[0],
+"priceAssistantPoints":[15],
+"currentLevel":0,
+"maxLevel":1,
+"imagesPaths" : ["Time_freeze_1"],
+"subNames" : ["Whiskey on the rocks"]
+}

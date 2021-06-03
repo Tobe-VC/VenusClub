@@ -1,0 +1,12 @@
+{
+"name":"Condom dispenser",
+"description":"Unlocks the condom dispenser. Boosts the effect of giving condoms at higher levels. Automates the distribution at max level.",
+"detailedDescription":["Gives the possibility to distribute condoms to the customers.","Improves the effect of the happiness boost from condoms by 5.","Improves the effect of the happiness boost from condoms by 5.","Improves the effect of the happiness boost from condoms by 5.","Automatically give condoms to clients who wants them."],
+"priceMoney":[500,3000,6000,10000,15000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Basic_01","Help_01","Hands_01","Mouth_01","Auto_01"],
+"subNames" : ["Condom dispenser","Better dispenser","Upgraded dispenser","Advanced dispenser","Automated dispenser"]
+}

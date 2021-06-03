@@ -1,0 +1,12 @@
+{
+"name":"LevelUp",
+"description":"Gives access to new upgrades.",
+"detailedDescription":["Unlocks the first level of upgrades.","Unlocks the second level of upgrades.","Unlocks the third level of upgrades.","Unlocks the fourth levels of upgrades.","Unlocks the fifth and above levels of upgrades."],
+"priceMoney":[0,5000,10000,15000,20000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Level_0","Level_1","Level_2","Level_3","Level_4"],
+"subNames" : ["Basic club","Better club","Upgraded club","Advanced club","Final club"]
+}

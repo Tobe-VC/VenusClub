@@ -1,0 +1,9 @@
+{
+"name":"Workout clothes",
+"subNames":["Workout", "Workout 2", "Workout 3"],
+"description":["A workout outfit for sport times.", "A workout outfit for sport times.", "A workout outfit for sport times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Workout_1", "Workout_2" ,"Workout_3"],
+"directoryName": "Workout clothes/"
+}

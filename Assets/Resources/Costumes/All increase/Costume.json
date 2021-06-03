@@ -1,0 +1,14 @@
+{
+"name":"All increase",
+"subNames":["Sexy","Topless","Naked"],
+"description":"Does everything the other costumes do.",
+"subDetailedDescriptions":[
+"Increases the money earned in the booth by 5%.\nDecreases the energy lost in the booth by 5%.\nIncreases the chance to get an event by 30%.\nIncreases the effect of bringing gifts to the client by 20%.\nIncreases the duration of interactions in the booth by 10%.\nIncreases the reputation gained from a satisfied customer by 20%.\nIncreases skill gains during work by 30%."
+,"Increases the money earned in the booth by 10%.\nDecreases the energy lost in the booth by 10%.\nIncreases the chance to get an event by 60%.\nIncreases the effect of bringing gifts to the client by 40%.\nIncreases the duration of interactions in the booth by 20%.\nIncreases the reputation gained from a satisfied customer by 40%.\nIncreases skill gains during work by 50%."
+,"Increases the money earned in the booth by 15%.\nDecreases the energy lost in the booth by 15%.\nIncreases the chance to get an event by 90%.\nIncreases the effect of bringing gifts to the client by 60%.\nIncreases the duration of interactions in the booth by 30%.\nIncreases the reputation gained from a satisfied customer by 60%.\nIncreases skill gains during work by 70%."],
+"pricesMoney":[10000,20000,30000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Basic_01","Topless_01","Naked_01"],
+"showInList":true
+}

@@ -1,0 +1,5 @@
+The only audio format supported is OGGVORBIS (.ogg extension).
+
+If you want to use any other format (MP3, WAV, ...) you'll have to convert your track into a OGG. 
+
+You can easily find plenty of OGG converter online. 

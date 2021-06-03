@@ -1,0 +1,12 @@
+{
+"name":"Bikini",
+"description":"Unlocks a bikini for Nicole.",
+"detailedDescription":["Unlocks a bikini when talking to Nicole.","Make her show more skin.", "Make her show more skin."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Bikini_1","Bikini_2","Bikini_3"],
+"subNames" : ["Bikini","Bikini 2","Bikini 3"],
+"directoryName":"Outfits/Bikini",
+"thirdLateNightMeetingRequired": true
+}

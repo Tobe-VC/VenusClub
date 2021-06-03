@@ -1,0 +1,12 @@
+{
+"name":"Personal coach",
+"description":"Unlocks the personal development store, allowing to buy improvements for dates. At higher levels, unlocks the higher levels personal improvements.",
+"detailedDescription":["Unlocks the personal development store.","Allows to buy level 2 improvements.","Allows to buy level 3 improvements.","Allows to buy level 4 improvements."],
+"priceMoney":[5000,10000,15000,20000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Personal_coach_01","Personal_coach_02","Personal_coach_03","Personal_coach_04"],
+"subNames" : ["Personal coach","Trained coach","Motivating coach", "Exhibitionist coach"]
+}

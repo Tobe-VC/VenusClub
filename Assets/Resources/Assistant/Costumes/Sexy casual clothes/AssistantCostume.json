@@ -1,0 +1,9 @@
+{
+"name":"Sexy casual clothes",
+"subNames":["Sexy casual","Sexy casual 2","Sexy casual 3"],
+"description":["A sexy outfit for casual times.","A sexy outfit for casual times.","A sexy outfit for casual times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Sexy casual_1","Sexy casual_2","Sexy casual_3"],
+"directoryName": "Sexy casual clothes/"
+}

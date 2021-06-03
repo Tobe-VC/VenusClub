@@ -1,0 +1,10 @@
+{
+"id":4,
+"name":"We bring gifts (drugs)",
+"description":"Automatically serve clients when they want drugs.",
+"detailedDescription": "Not exactly the most glamour of work, but we have some \"employees\" who are specialized in delivering things. Even legal stuff, sometimes. \nWe could ask them to help with your clients, so that they would give them drugs when they want some. \n\nPretty standard stuff really. I assume you don't want it to be mixed with lemongrass?",
+"pricePerDayMoney":100,
+"priceToAccess":5,
+"imagePath" : "Gifts_1",
+"folder" : "Gifts(drugs)/"
+}

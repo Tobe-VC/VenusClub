@@ -1,0 +1,12 @@
+{
+"name":"Foursome",
+"description":"Allows foursomes in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice foursomes in the booth, assuming they have enough openness. Increases base group sex earning by 1.",
+"priceMoney":7000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Foursome_01",
+"predecessorsName" : ["Threesome","Anal"],
+"minOpenness" : 88.5
+}

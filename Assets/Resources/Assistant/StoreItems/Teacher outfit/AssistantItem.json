@@ -1,0 +1,13 @@
+{
+"name":"Teacher costume",
+"description":"Unlocks the teacher outfit for Nicole.",
+"detailedDescription":["Unlocks the teacher outfit when talking to Nicole.","Removes a bit of the teacher outfit.","Removes more of the teacher outfit."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Teacher_1","Teacher_2","Teacher_3"],
+"subNames" : ["Teacher outfit","Teacher outfit 2","Teacher outfit 3"],
+"directoryName":"Outfits/Teacher outfit",
+"thirdLateNightMeetingRequired": true
+
+}

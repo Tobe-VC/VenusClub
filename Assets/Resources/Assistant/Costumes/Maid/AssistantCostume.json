@@ -1,0 +1,9 @@
+{
+"name":"Maid",
+"subNames":["Maid","Maid 2","Maid 3"],
+"description":["A maid uniform for cleaning times.","A maid uniform for cleaning times.","A maid uniform for cleaning times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Maid_1","Maid_2","Maid_3"],
+"directoryName": "Maid/"
+}

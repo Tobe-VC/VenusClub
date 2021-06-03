@@ -1,0 +1,10 @@
+{
+"name":"Starting outfit",
+"subNames":["Starting outfit","Starting outfit, no jacket"],
+"description":["An assistant outfit. Formal and comfortable.","An assistant outfit. Formal and comfortable."],
+"currentLevel":0,
+"maxLevel":2,
+"imagesPaths" : ["Starting outfit_1","Starting outfit_2"],
+"directoryName": "Starting outfit/",
+"bought":true
+}

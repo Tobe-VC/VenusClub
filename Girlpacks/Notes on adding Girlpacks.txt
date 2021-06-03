@@ -1,0 +1,2 @@
+When adding a new Girlpack, make sure that the name of the folder ontaining the pack is the same as the name in the Description.json file in the JSON_data subfolder.
+Also, make sure that the folders named "images", "JSON_data", "texts" and "videos" are in the folder named after the girl, and not in any subfolder.

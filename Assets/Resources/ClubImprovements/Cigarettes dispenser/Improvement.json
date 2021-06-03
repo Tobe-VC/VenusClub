@@ -1,0 +1,12 @@
+{
+"name":"Cigarettes dispenser",
+"description":"Unlocks the cigarettes dispenser. Boosts the effect of giving cigarettes at higher levels. Automates the distribution at max level.",
+"detailedDescription":["Gives the possibility to distribute cigarettes to the customers.","Improves the effect of the happiness boost from cigarettes by 5.","Improves the effect of the happiness boost from cigarettes by 5.","Improves the effect of the happiness boost from cigarettes by 5.","Automatically give cigarettes to clients who wants them."],
+"priceMoney":[500,3000,6000,10000,15000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Basic_01","Sexy_01","Naked_01","Sex_01","Auto_01"],
+"subNames" : ["Cigarettes dispenser","Better dispenser","Upgraded dispenser","Advanced dispenser","Automated dispenser"]
+}

@@ -1,0 +1,12 @@
+{
+"name":"Dancing",
+"description":"Unlocks the possiblity to dance during work for Nicole.",
+"detailedDescription":["Unlocks the basic dance.","Unlocks the closer dance.","Unlocks the topless dance."],
+"priceAssistantPoints":[30,40,50],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Basic_dance","Dance_closer","Dance_topless"],
+"subNames" : ["Basic dance", "Closer dance","Topless dance"],
+"directoryName":"Performances/Dance",
+"thirdLateNightMeetingRequired": true
+}

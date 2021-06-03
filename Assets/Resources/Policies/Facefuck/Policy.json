@@ -1,0 +1,12 @@
+{
+"name":"Facefuck",
+"description":"Allows facefucking in the booth.",
+"detailedDescription":"Gives girls the possiblity to practice facefucking in the booth, assuming they have enough openness. Increases base oral earning by 1.",
+"priceMoney":6000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Facefuck_01",
+"predecessorsName" : ["Deepthroat"],
+"minOpenness" : 60.8
+}

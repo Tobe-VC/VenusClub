@@ -1,0 +1,10 @@
+{
+"id":5,
+"name":"Patronage",
+"description":"Increase the chance of having clients from the crime organization.",
+"detailedDescription": "Our organization is filled with guys who would love to come to a place like yours. We can make sure they hear about it, so that more of your clients are from our ranks. \n\nAnd it would reduce my stress relief duty as well...",
+"pricePerDayMoney":50,
+"priceToAccess":10,
+"imagePath" : "Patronage_1",
+"folder" : "Patronage/"
+}

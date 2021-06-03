@@ -1,0 +1,12 @@
+{
+"name":"Security",
+"description":"Decreases client acquisition time.",
+"detailedDescription":["Decreases client acquisition time by 10%.","Decreases client acquisition time by 10%.","Decreases client acquisition time by 10%.","Decreases client acquisition time by 10%."],
+"priceMoney":[1000,4000,7000,10000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Basic_01","Sexy_01","Naked_01","Sex_01"],
+"subNames" : ["Security","Sexy security","Naked security","Slutty security"]
+}

@@ -1,0 +1,11 @@
+{
+"name":"Tennis date unlock",
+"description":"Unlocks the tenns date with Nicole.",
+"detailedDescription":["Unlocks the tennis date with Nicole."],
+"priceAssistantPoints":[30],
+"currentLevel":0,
+"maxLevel":1,
+"imagesPaths" : ["Tennis_date_1"],
+"subNames" : ["Tennis date"],
+"directoryName": "StoreItems"
+}

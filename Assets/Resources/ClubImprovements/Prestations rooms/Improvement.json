@@ -1,0 +1,12 @@
+{
+"name":"Prestations rooms",
+"description":"Create rooms to do new performances during work",
+"detailedDescription":["Gives the girls the possibility to dance. You also need to pass the corresponding policy.","Gives the girls the possibility to pose. You also need to pass the corresponding policy.","Gives the girls the possibility to perform foreplay. You also need to pass the corresponding policy.","Gives the girls the possibility to perform oral sex. You also need to pass the corresponding policy.","Gives the girls the possibility to perform sex. You also need to pass the corresponding policy.","Gives the girls the possibility to perform group sex. You also need to pass the corresponding policy."],
+"priceMoney":[0,1000,2000,3000,4000,5000],
+"priceInfluence":[0,0,0,0,0,0],
+"priceConnection":[0,0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":6,
+"imagesPaths" : ["Stage_01","Photostudio_01","Foreplay_Booth_01","Oral_Booth_01","Sex_Booth_01","Group_Room_01"],
+"subNames" : ["Stage","Studio","Foreplay booth","Oral booth","Sex booth","Group sex room"]
+}

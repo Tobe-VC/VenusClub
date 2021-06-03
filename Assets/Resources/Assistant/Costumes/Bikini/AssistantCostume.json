@@ -1,0 +1,9 @@
+{
+"name":"Bikini",
+"subNames":["Bikini","Bikini 2","Bikini 3"],
+"description":["A bikini for summer (and wet?) times.","A bikini for summer (and wet?) times.","A bikini for summer (and wet?) times."],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Bikini_1","Bikini_2","Bikini_3"],
+"directoryName": "Bikini/"
+}

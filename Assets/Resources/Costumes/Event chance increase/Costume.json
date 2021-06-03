@@ -1,0 +1,11 @@
+{
+"name":"Event chance increase",
+"subNames":["Nun","Angel","Goddess"],
+"description":"Increases event chance.",
+"subDetailedDescriptions":["Doubles the chance to get an event.","Triples the chance to get an event.","Quadruples the chance to get an event."],
+"pricesMoney":[5000,10000,15000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Nun_01","Angel_01","Goddess_01"],
+"showInList":true
+}

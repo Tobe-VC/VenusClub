@@ -1,0 +1,13 @@
+{
+    "id":2,
+    "name":"Tennis",
+    "directoryName":"Tennis",
+    "maxPortraitLevel":8,
+    "maxBackgroundLevel":1,
+	"maxVideoLevel":0,
+    "portraitsPaths":["Assistant/images/Dates/Tennis/1","Assistant/images/Dates/Tennis/2","Assistant/images/Dates/Tennis/3","Assistant/images/Dates/Tennis/4","Assistant/images/Dates/Tennis/5","Assistant/images/Dates/Tennis/6","Assistant/images/Dates/Tennis/7","Assistant/images/Dates/Tennis/8"],
+    "backgroundsPaths":["Dialog backgrounds/DateBackgrounds/Tennis_court"],
+    "dialogLines":[[]],
+    "characterDated":"assistant",
+	"thumbnailImagePath":"Assistant/images/Dates/Tennis/1"
+}

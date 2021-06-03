@@ -1,0 +1,13 @@
+{
+"name":"Gym",
+"description":"Unlocks the possibility to hire different coaches",
+"detailedDescription":["Unlocks the ability to hire a dancing coach, pose coach, foreplay coach, oral coach, sex coach or group sex coach."],
+"priceMoney":[3000],
+"priceInfluence":[0],
+"priceConnection":[0],
+"currentLevel":0,
+"maxLevel":1,
+"imagesPaths" : ["Gym_01"],
+"subNames" : [],
+"showInList" : false
+}

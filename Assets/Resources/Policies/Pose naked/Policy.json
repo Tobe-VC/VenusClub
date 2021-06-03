@@ -1,0 +1,12 @@
+{
+"name":"Pose naked",
+"description":"Allows naked posing in the booth.",
+"detailedDescription":"Gives girls the possiblity to pose naked in the booth, assuming they have enough openness.",
+"priceMoney":2000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "Pose_Naked_01",
+"predecessorsName" : ["Dance closer"],
+"minOpenness" : 16.6
+}

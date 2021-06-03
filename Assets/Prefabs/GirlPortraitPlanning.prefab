@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &970775117265063364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 970775117265063367}
+  - component: {fileID: 970775117265063361}
+  - component: {fileID: 970775117265063366}
+  - component: {fileID: 6933213613350629765}
+  - component: {fileID: 1158157504877700068}
+  m_Layer: 5
+  m_Name: GirlPortraitPlanning
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &970775117265063367
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970775117265063364}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 473}
+  m_SizeDelta: {x: 120, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &970775117265063361
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970775117265063364}
+  m_CullTransparentMesh: 0
+--- !u!114 &970775117265063366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970775117265063364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &6933213613350629765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970775117265063364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de6e55518051a914b80e87fbc2da4f6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  girl:
+    name: 
+    height: 0
+    bust: 0
+    eyes: 0
+    hair: 0
+    body: 0
+    age: 0
+    skin: 0
+    specialSkill: 0
+    bustType: 
+    eyeColor: 
+    hairColor: 
+    bodyType: 
+    skinComplexion: 
+    specialty: 
+    dancing: 0
+    oral: 0
+    posing: 0
+    foreplay: 0
+    sex: 0
+    group: 0
+    popularity: 0
+    morningOccupation: 3
+    eveningOccupation: 3
+    nightOccupation: 3
+    morningWork: 0
+    eveningWork: 0
+    nightWork: 0
+    moneyEarned: 0
+    money: 0
+    energy: 100
+    moneyCost: 300
+    reputationCost: 0
+    influenceCost: 0
+    connectionCost: 0
+    openness: 0
+    external: 0
+    folderName: 
+--- !u!114 &1158157504877700068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970775117265063364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 768085a555473224386b03a2625ed33a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  errorPopup: {fileID: 0}
+  tutorialPopup: {fileID: 0}
+  workList: {fileID: 0}
+  workListContent: {fileID: 0}
+  restList: {fileID: 0}
+  restListContent: {fileID: 0}
+  girlNameText: {fileID: 0}
+  girlImage: {fileID: 0}
+  dancingSkillValue: {fileID: 0}
+  posingSkillValue: {fileID: 0}
+  foreplaySkillValue: {fileID: 0}
+  oralSkillValue: {fileID: 0}
+  sexSkillValue: {fileID: 0}
+  groupSkillValue: {fileID: 0}
+  energyValue: {fileID: 0}
+  opennessValue: {fileID: 0}
+  popularityValue: {fileID: 0}
+  npb: {fileID: 0}
+  doubleClickInterval: 0.5

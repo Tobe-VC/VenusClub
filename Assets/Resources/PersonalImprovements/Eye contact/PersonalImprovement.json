@@ -1,0 +1,13 @@
+{
+"name":"Eye contact",
+"description":"Increases the minimum points gained during a date.",
+"detailedDescription":["Increases the minimum points gained during a date by 5.","Increases the minimum points gained during a date by 5.","Increases the minimum points gained during a date by 5.","Increases the minimum points gained during a date by 5."],
+"priceMoney":[1000,4000,7000,10000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"priceAssistantPoints":[5,10,15,20],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Eye contact_1","Eye contact_2","Eye contact_3","Eye contact_4"],
+"subNames" : ["Eye contact","Eye contact 2","Eye contact 3","Eye contact 4"]
+}

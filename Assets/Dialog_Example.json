@@ -1,0 +1,34 @@
+{
+"beforeQuestionDialog":[
+{"talker":"narrator", "line": "This is a line said by the narrator."},
+{"talker":"Girl", "line": "This is a line said by the girl."},
+{"talker":"You", "line": "This is a line said by the main character."}
+],
+
+"answerOneDialog": [],
+
+"answerTwoDialog": [],
+
+"answerThreeDialog": [],
+
+"answerFourDialog": [],
+
+"portraitName":"",
+
+"backgroundName":"",
+
+"opennessGains":[0,0,0,0],
+
+"minOpenness":0,
+"maxOpenness":100,
+
+"needLessonsSeen":[],
+
+"repeatable": false,
+
+"rightAnswer":0,
+
+"displayPortrait":true,
+
+"disabled": true
+}

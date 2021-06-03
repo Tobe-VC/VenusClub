@@ -1,0 +1,12 @@
+{
+"name":"New booths",
+"description":"Build a new booth and increase the working duration.",
+"detailedDescription":["Adds a third booth and 30 seconds to the working time.","Adds a fourth booth and 30 seconds to the working time.","Adds a fifth booth and 30 seconds to the working time.","Adds a sixth booth and 30 seconds to the working time."],
+"priceMoney":[1000,4000,7000,10000],
+"priceInfluence":[0,0,0,0],
+"priceConnection":[0,0,0,0],
+"currentLevel":0,
+"maxLevel":4,
+"imagesPaths" : ["Booth_01","Booth_02","Booth_03","Booth_04"],
+"subNames" : ["Third booth","Fourth booth","Fifth booth","Sixth booth"]
+}

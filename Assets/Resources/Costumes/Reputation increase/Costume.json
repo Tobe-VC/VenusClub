@@ -1,0 +1,11 @@
+{
+"name":"Reputation increase",
+"subNames":["Swimsuit","Bikini","Wet shirts"],
+"description":"Increases the reputation gained from a satisfied customer.",
+"subDetailedDescriptions":["Increases the reputation gained from a satisfied customer by 50%.","Increases the reputation gained from a satisfied customer by 100%.","Increases the reputation gained from a satisfied customer by 75%."],
+"pricesMoney":[5000,10000,15000],
+"pricesInfluence":[0,0,0],
+"pricesConnection":[0,0,0],
+"imagesPaths" : ["Swimsuit_01","Bikini_01","Wet_shirt_01"],
+"showInList":true
+}

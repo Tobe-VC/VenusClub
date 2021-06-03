@@ -1,0 +1,10 @@
+{
+"id":1,
+"name":"We bring gifts (cigarettes)",
+"description":"Automatically serve clients when they want cigarettes.",
+"detailedDescription": "Not exactly the most glamour of work, but we have some \"employees\" who are specialized in delivering things. Even legal stuff, sometimes. \nWe could ask them to help with your clients, so that they would give them cigarettes when they want some. \n\nThat should reduce your workload, since you are sooo overworked...",
+"pricePerDayMoney":100,
+"priceToAccess":5,
+"imagePath" : "Gifts_1",
+"folder" : "Gifts(cigarettes)/"
+}

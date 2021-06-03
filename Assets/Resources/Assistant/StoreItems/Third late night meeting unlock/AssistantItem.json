@@ -1,0 +1,11 @@
+{
+"name":"Third late night meeting unlock",
+"description":"Unlocks the third late night meeting with Nicole. Note: you need to end a working day to see it.",
+"detailedDescription":["Unlocks the third late night meeting with Nicole. \nNote: you need to end a working day to see it."],
+"priceAssistantPoints":[1],
+"currentLevel":0,
+"maxLevel":1,
+"imagesPaths" : ["ThirdLateNightMeeting_1"],
+"subNames" : ["Third late night meeting"],
+"directoryName": "StoreItems"
+}

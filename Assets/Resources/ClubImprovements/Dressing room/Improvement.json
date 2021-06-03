@@ -1,0 +1,12 @@
+{
+"name":"Dressing room",
+"description":"Gives the girls a better quality rest.",
+"detailedDescription":["Adds 5 to the energy gained by resting.","Adds 5 to the energy gained by resting.","Adds 5 to the energy gained by resting.","Adds 5 to the energy gained by resting.","Adds 5 to the energy gained by resting."],
+"priceMoney":[1000,2500,4000,5500,7000],
+"priceInfluence":[0,0,0,0,0],
+"priceConnection":[0,0,0,0,0],
+"currentLevel":0,
+"maxLevel":5,
+"imagesPaths" : ["Pillows_01","Armchair_01","Couch_01","Bed_01","Massage_01"],
+"subNames" : ["Pillows","Armchair","Couch","Bed","Massages"]
+}

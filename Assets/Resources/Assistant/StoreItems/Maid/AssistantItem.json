@@ -1,0 +1,13 @@
+{
+"name":"Maid",
+"description":"Unlocks a maid outfit for Nicole.",
+"detailedDescription":["Unlocks a maid outfit when talking to Nicole.","Removes a bit of the maid outfit.","Removes more of the maid outfit."],
+"priceAssistantPoints":[20,30,40],
+"currentLevel":0,
+"maxLevel":3,
+"imagesPaths" : ["Maid_1","Maid_2","Maid_3"],
+"subNames" : ["Maid","Maid 2","Maid 3"],
+"directoryName":"Outfits/Maid",
+"thirdLateNightMeetingRequired": true
+
+}

@@ -1,0 +1,12 @@
+{
+"name":"Solo fingering",
+"description":"Allows hand masturbation in the booth.",
+"detailedDescription":"Gives girls the possiblity to masturbate in the booth, assuming they have enough openness. Increases base pose earning by 1.",
+"priceMoney":3000,
+"priceInfluence":0,
+"priceConnection":0,
+"priceReputation":0,
+"imgPath" : "HandMast_01",
+"predecessorsName" : ["Pose naked","Dance topless"],
+"minOpenness" : 22.1
+}

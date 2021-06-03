@@ -1,0 +1,12 @@
+{
+    "id":3,
+    "name":"Baseball",
+    "directoryName":"Baseball",
+    "maxPortraitLevel":4,
+    "maxBackgroundLevel":1,
+    "portraitsPaths":["Assistant/images/Dates/Baseball/1","Assistant/images/Dates/Baseball/2","Assistant/images/Dates/Baseball/3","Assistant/images/Dates/Baseball/4"],
+    "backgroundsPaths":["Dialog backgrounds/DateBackgrounds/bar"],
+    "dialogLines":[[]],
+    "characterDated":"assistant",
+	"thumbnailImagePath":"Assistant/images/Cafe dress/Basic pose (0002)"
+}
